@@ -67,3 +67,28 @@
     background-color: darkslateblue;
     display: inline;
 }
+
+/* cereal.html.html */
+
+.cereal-head{
+    color: rgb(182, 62, 62);
+    text-decoration: underline;
+}
+
+.cereal-desc{
+    color: white;
+    background-color: rgb(180, 139, 61);
+    display: inline;
+}
+
+.cereal-ing{
+    color: white;
+    background-color: rgb(180, 139, 61);
+    display: inline;
+}
+
+.cereal-steps{
+    color: white;
+    background-color: rgb(180, 139, 61);
+    display: inline;
+}
