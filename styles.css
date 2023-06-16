@@ -1,3 +1,4 @@
+/* index.html */
 .index a {
     color: darkmagenta;
 }
@@ -17,3 +18,27 @@
     display: inline;
 }
 
+/* mac-and-cheese.html */
+
+.mac-head{
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+.mac-desc{
+    color: white;
+    background-color: darkorange;
+    display: inline;
+}
+
+.mac-ing{
+    color: white;
+    background-color: darkorange;
+    display: inline;
+}
+
+.mac-steps{
+    color: white;
+    background-color: darkorange;
+    display: inline;
+}
