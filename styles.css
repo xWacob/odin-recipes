@@ -42,3 +42,28 @@
     background-color: darkorange;
     display: inline;
 }
+
+/* cheesy-chips.html.html */
+
+.chip-head{
+    color: violet;
+    text-decoration: underline;
+}
+
+.chip-desc{
+    color: white;
+    background-color: darkslateblue;
+    display: inline;
+}
+
+.chip-ing{
+    color: white;
+    background-color: darkslateblue;
+    display: inline;
+}
+
+.chip-steps{
+    color: white;
+    background-color: darkslateblue;
+    display: inline;
+}
