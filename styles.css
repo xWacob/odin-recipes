@@ -1,7 +1,19 @@
-li {
-    border: maroon;
+.index a {
+    color: darkmagenta;
 }
 
-a {
-    color: skyblue;
+.index ul{
+    border-style: dashed;
+    border-color: black;
+    border-width: 2px;
+    padding: 30px;
 }
+
+.index h1{
+    background-color: lightblue;
+    border-style: solid;
+    border-color: black;
+    color: black;
+    display: inline;
+}
+
