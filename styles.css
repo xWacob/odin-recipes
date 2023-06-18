@@ -1,13 +1,17 @@
 /* index.html */
 .index a {
-    color: darkmagenta;
+    color: rgb(43, 134, 219);
+    display: block;
+    font-size: 50px;
 }
 
-.index ul{
+.index li{
     border-style: dashed;
     border-color: black;
     border-width: 2px;
-    padding: 30px;
+    padding: 15px;
+    margin: 12px;
+    text-align: center;
 }
 
 .index h1{
@@ -15,7 +19,10 @@
     border-style: solid;
     border-color: black;
     color: black;
-    display: inline;
+    margin: 8px auto;
+    padding: 12px;
+    text-align: center;
+    font-size: 75px;
 }
 
 /* mac-and-cheese.html */
